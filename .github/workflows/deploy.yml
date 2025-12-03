@@ -30,7 +30,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "damon-cto-49"
-          entrypoint: "./_fresh/server.js"
+          entrypoint: ""
           root: ""
           
           
